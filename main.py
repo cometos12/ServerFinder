@@ -6,9 +6,8 @@ def wyswietl_menu():
     print("1. Uruchom Program ip.py")
     print("2. Wyjście")
 
-def sprawdz_licencje(licencja):
-    load_dotenv()  
-    prawidlowa_licencja = os.getenv("LICENCJA")
+def sprawdz_licencje(licencja): 
+    prawidlowa_licencja = ("SerwerFinder2024")
     return licencja == prawidlowa_licencja
 
 def uruchom_ip_program():
