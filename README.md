@@ -7,8 +7,8 @@ PL: Dostępne dla: WINDOWS
 
 ANG: Avaible For: WINDOWS
 
-PL: Aby uzyć te narzędzie odpal plik start.bat i to tyle! aby wpisać licencje napisz na discordzie do ciagnikwtf.
+PL: Aby uzyć te narzędzie odpal plik start.bat i to tyle! Kod licencji to SerwerFinder2024
 
-ANG: To use this tool, run the start.bat file and that's it! to enter the license dm ciagnikwtf. on discord
+ANG: To use this tool, run the start.bat file and that's it! License code is SerwerFinder2024
 
 Future Update
